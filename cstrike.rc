@@ -11,3 +11,4 @@ seta checkscoreboard 1
 seta fps_max 60
 seta hud_fastswitch 1 
 seta sv_skipshield 1
+seta hand 1
