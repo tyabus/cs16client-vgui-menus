@@ -1,6 +1,4 @@
 // VGUIs
-seta _vgui_menus 1
-seta _extended_menus 1
 seta yb_display_menu_text 1
 
 // CMD MENU
@@ -8,7 +6,6 @@ seta checkradar 1
 seta checkscoreboard 1
 
 // OTHER
-seta fps_max 60
 seta hud_fastswitch 1 
 seta sv_skipshield 1
 seta hand 1
