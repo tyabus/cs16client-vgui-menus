@@ -5,11 +5,12 @@ seta yb_display_menu_text 1
 seta checkradar 1
 seta checkscoreboard 1
 seta numericalmenu 1
-seta numericalmenu_clientonly 0
+seta numericalmenu_clientonly 1
 
 // OTHER
 seta hud_fastswitch 1 
 seta sv_skipshield 1
 seta hand 1
 
-//chek
+//check
+
