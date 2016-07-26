@@ -39,416 +39,416 @@ BaseDir bot
 //
 
 Place BombsiteA
-	null.wav
+	\null.wav
 End
 
 Place BombsiteB
-	null.wav
+	\null.wav
 End
 
 Place BombsiteC
-	null.wav
+	\null.wav
 End
 
 Place HostageRescueZone
-	null.wav
+	\null.wav
 End
 
 Place VipRescueZone
-	null.wav
+	\null.wav
 End
 
 Place CTSpawn
-	null.wav
+	\null.wav
 End
 
 Place TSpawn
-	null.wav
+	\null.wav
 End
 
 
 Place Bridge
-	null.wav
+	\null.wav
 End
 
 Place Middle
-	null.wav
+	\null.wav
 End
 
 Place House
-	null.wav
+	\null.wav
 End
 
 Place Apartment
-	null.wav
+	\null.wav
 End
 
 Place Apartments
-	null.wav
+	\null.wav
 End
 
 Place Market
-	null.wav
+	\null.wav
 End
 
 Place Sewers
-	null.wav
+	\null.wav
 End
 
 Place Tunnel
-	null.wav
+	\null.wav
 End
 
 Place Ducts
-	null.wav
+	\null.wav
 End
 
 Place Village
-	null.wav
+	\null.wav
 End
 
 Place Roof
-	null.wav
+	\null.wav
 End
 
 Place Upstairs
-	null.wav
+	\null.wav
 End
 
 Place Downstairs
-	null.wav
+	\null.wav
 End
 
 Place Basement
-	null.wav
+	\null.wav
 End
 
 Place Crawlspace
-	null.wav
+	\null.wav
 End
 
 Place Kitchen
-	null.wav
+	\null.wav
 End
 
 Place Inside
-	null.wav
+	\null.wav
 End
 
 Place Outside
-	null.wav
+	\null.wav
 End
 
 Place Tower
-	null.wav
+	\null.wav
 End
 
 Place WineCellar
-	null.wav
+	\null.wav
 End
 
 Place Garage
-	null.wav
+	\null.wav
 End
 
 Place Courtyard
-	null.wav
+	\null.wav
 End
 
 Place Water
-	null.wav
+	\null.wav
 End
 
 Place FrontDoor
-	null.wav
+	\null.wav
 End
 
 Place BackDoor
-	null.wav
+	\null.wav
 End
 
 Place SideDoor
-	null.wav
+	\null.wav
 End
 
 Place BackWay
-	null.wav
+	\null.wav
 End
 
 Place FrontYard
-	null.wav
+	\null.wav
 End
 
 Place BackYard
-	null.wav
+	\null.wav
 End
 
 Place SideYard
-	null.wav
+	\null.wav
 End
 
 Place Lobby
-	null.wav
+	\null.wav
 End
 
 Place Vault
-	null.wav
+	\null.wav
 End
 
 Place Elevator
-	null.wav
+	\null.wav
 End
 
 Place DoubleDoors
-	null.wav
+	\null.wav
 End
 
 Place SecurityDoors
-	null.wav
+	\null.wav
 End
 
 Place LongHall
-	null.wav
+	\null.wav
 End
 
 Place SideHall
-	null.wav
+	\null.wav
 End
 
 Place FrontHall
-	null.wav
+	\null.wav
 End
 
 Place BackHall
-	null.wav
+	\null.wav
 End
 
 Place MainHall
-	null.wav
+	\null.wav
 End
 
 Place FarSide
-	null.wav
+	\null.wav
 End
 
 Place Windows
-	null.wav
+	\null.wav
 End
 
 Place Window
-	null.wav
+	\null.wav
 End
 
 Place Attic
-	null.wav
+	\null.wav
 End
 
 Place StorageRoom
-	null.wav
+	\null.wav
 End
 
 Place ProjectorRoom
-	null.wav
+	\null.wav
 End
 
 Place MeetingRoom
-	null.wav
+	\null.wav
 End
 
 Place ConferenceRoom
-	null.wav
+	\null.wav
 End
 
 Place ComputerRoom
-	null.wav
+	\null.wav
 End
 
 Place BigOffice
-	null.wav
+	\null.wav
 End
 
 Place LittleOffice
-	null.wav
+	\null.wav
 End
 
 Place Dumpster
-	null.wav
+	\null.wav
 End
 
 Place Airplane
-	null.wav
+	\null.wav
 End
 
 Place Underground
-	null.wav
+	\null.wav
 End
 
 Place Bunker
-	null.wav
+	\null.wav
 End
 
 Place Mines
-	null.wav
+	\null.wav
 End
 
 Place Front
-	null.wav
+	\null.wav
 End
 
 Place Back
-	null.wav
+	\null.wav
 End
 
 Place Rear
-	null.wav
+	\null.wav
 End
 
 Place Side
-	null.wav
+	\null.wav
 End
 
 Place Ramp
-	null.wav
+	\null.wav
 End
 
 Place Underpass
-	null.wav
+	\null.wav
 End
 
 Place Overpass
-	null.wav
+	\null.wav
 End
 
 Place Stairs
-	null.wav
+	\null.wav
 End
 
 Place Ladder
-	null.wav
+	\null.wav
 End
 
 Place Gate
-	null.wav
+	\null.wav
 End
 
 Place GateHouse
-	null.wav
+	\null.wav
 End
 
 Place LoadingDock
-	null.wav
+	\null.wav
 End
 
 Place GuardHouse
-	null.wav
+	\null.wav
 End
 
 Place Entrance
-	null.wav
+	\null.wav
 End
 
 Place VendingMachines
-	null.wav
+	\null.wav
 End
 
 Place Loft
-	null.wav
+	\null.wav
 End
 
 Place Balcony
-	null.wav
+	\null.wav
 End
 
 Place Alley
-	null.wav
+	\null.wav
 End
 
 Place BackAlley
-	null.wav
+	\null.wav
 End
 
 Place SideAlley
-	null.wav
+	\null.wav
 End
 
 Place FrontRoom
-	null.wav
+	\null.wav
 End
 
 Place BackRoom
-	null.wav
+	\null.wav
 End
 
 Place SideRoom
-	null.wav
+	\null.wav
 End
 
 Place Crates
-	null.wav
+	\null.wav
 End
 
 Place Truck
-	null.wav
+	\null.wav
 End
 
 Place Bedroom
-	null.wav
+	\null.wav
 End
 
 Place FamilyRoom
-	null.wav
+	\null.wav
 End
 
 Place Bathroom
-	null.wav
+	\null.wav
 End
 
 Place LivingRoom
-	null.wav
+	\null.wav
 End
 
 Place Den
-	null.wav
+	\null.wav
 End
 
 Place Office
-	null.wav
+	\null.wav
 End
 
 Place Atrium
-	null.wav
+	\null.wav
 End
 
 Place Entryway
-	null.wav
+	\null.wav
 End
 
 Place Foyer
-	null.wav
+	\null.wav
 End
 
 Place Stairwell
-	null.wav
+	\null.wav
 End
 
 Place Fence
-	null.wav
+	\null.wav
 End
 
 Place Deck
-	null.wav
+	\null.wav
 End
 
 Place Porch
-	null.wav
+	\null.wav
 End
 
 Place Patio
-	null.wav
+	\null.wav
 End
 
 Place Wall
-	null.wav
+	\null.wav
 End
 
 
@@ -463,80 +463,80 @@ Chatter EnemySpotted
 	Radio EVENT_RADIO_ENEMY_SPOTTED
 
 	Count 1
-	null.wav
+	\null.wav
 
 	Count 2
-	null.wav
+	\null.wav
 
 	Count 3
-	null.wav
+	\null.wav
 
 	Count Many
 		// VOICE NOTE: The bot is scared here - there are a lot of enemies!
-	null.wav
+	\null.wav
 End
 
 // the bot has recently seen an enemy die
 Chatter EnemyDown
 	Radio EVENT_RADIO_ENEMY_DOWN
 
-	null.wav
+	\null.wav
 End
 
 // the bot says this when asked to "report in" while he is fighting enemies
 Chatter InCombat
 	Radio EVENT_RADIO_ENEMY_SPOTTED
 
-	null.wav
+	\null.wav
 End
 
 // the bot has been asked to "report in" and sees nothing interesting in his area
 Chatter Clear
 	Radio EVENT_RADIO_SECTOR_CLEAR
 
-	null.wav
+	\null.wav
 End
 
 // the bot hasn't seen anything in a long time and is asking his teammates to report in
 Chatter RequestReport
 	Radio EVENT_RADIO_REPORT_IN_TEAM
 
-	null.wav
+	\null.wav
 End
 
 // the bot has killed the enemy has was fighting
 Chatter KilledMyEnemy
 	Radio EVENT_RADIO_ENEMY_DOWN
 
-	null.wav
+	\null.wav
 End
 
 // the bot was chasing after his enemy and lost track of him
 // VOICE NOTE: Minor frustration/disappointment/exasperation here
 Chatter LostEnemy
-	null.wav
+	\null.wav
 End
 
 // the bot is telling his team that the last enemy has been killed
 // VOICE NOTE: Happy/smugness/satisfaction
 Chatter NoEnemiesLeft
-	null.wav
+	\null.wav
 End
 
 // the bot is telling his team there is one enemy left
 // VOICE NOTE: Anticipation
 Chatter OneEnemyLeft
-	null.wav
+	\null.wav
 End
 
 // the bot is telling his team there are two enemies left
 Chatter TwoEnemiesLeft
-	null.wav
+	\null.wav
 End
 
 // the bot is telling his team there are three enemies left
 Chatter ThreeEnemiesLeft
-	null.wav
+	\null.wav
 End
 
 // the bot is in trouble and is asking for help
@@ -544,7 +544,7 @@ End
 Chatter Help
 	Radio EVENT_RADIO_TAKING_FIRE
 
-	null.wav
+	\null.wav
 End
 
 // the bot is agreeing with the last radio command
@@ -553,7 +553,7 @@ Chatter Affirmative
 
 	Important
 
-	null.wav
+	\null.wav
 End
 
 // the bot has declined the last radio command
@@ -562,7 +562,7 @@ Chatter Negative
 
 	Important
 
-	null.wav
+	\null.wav
 End
 
 //-----------------------------------------------------------------------------------------
@@ -576,7 +576,7 @@ Chatter BombsiteClear
 
 	Important
 
-	null.wav
+	\null.wav
 End
 
 // the (CT) bot has begun defusing the bomb
@@ -585,19 +585,19 @@ Chatter DefusingBomb
 
 	Important
 
-	null.wav
+	\null.wav
 End
 
 // the (CT) bot is announcing his intention to guard the dropped bomb
 Chatter GoingToGuardLooseBomb
-	null.wav
+	\null.wav
 End
 
 // the (CT) bot it telling his team that he is guarding the dropped bomb
 Chatter GuardingLooseBomb
 	Radio EVENT_RADIO_IN_POSITION
 
-	null.wav
+	\null.wav
 End
 
 // the (Terrorist) bot is planting the bomb
@@ -606,16 +606,16 @@ Chatter PlantingBomb
 
 	// for maps with no places, and also to be occasionally vague about where we're planting
 	Place ANY
-	null.wav
+	\null.wav
 
 	Place BombsiteA
-	null.wav
+	\null.wav
 
 	Place BombsiteB
-	null.wav
+	\null.wav
 
 	Place BombsiteC
-	null.wav
+	\null.wav
 End
 
 // the (Terrorist) bot is announcing his intention to plant the bomb at a specific bomb site
@@ -624,16 +624,16 @@ Chatter GoingToPlantBomb
 
 	// for maps with no places, and to be vague occasionally
 	Place ANY
-	null.wav
+	\null.wav
 
 	Place BombsiteA
-	null.wav
+	\null.wav
 
 	Place BombsiteB
-	null.wav
+	\null.wav
 
 	Place BombsiteC
-	null.wav
+	\null.wav
 End
 
 // the (CT) bot has spotted the bomb carrier
@@ -643,14 +643,14 @@ Chatter SpottedBomber
 
 	Important
 
-	null.wav
+	\null.wav
 End
 
 // the bot has spotted a dropped bomb on the ground
 Chatter SpottedLooseBomb
 	Important
 
-	null.wav
+	\null.wav
 End
 
 // the (CT) bot heard a Terrorist pick up the dropped bomb
@@ -658,7 +658,7 @@ End
 Chatter TheyPickedUpTheBomb
 	Important
 
-	null.wav
+	\null.wav
 End
 
 // the (CT) bot has found the location of the ticking bomb
@@ -669,57 +669,57 @@ Chatter PlantedBombPlace
 
 	// for maps with no places
 	Place UNDEFINED
-	null.wav
+	\null.wav
 
 	Place BombsiteA
-	null.wav
+	\null.wav
 		//they_planted_at_a.wav		(can't use these, because T's respond with this as well)
-	null.wav
+	\null.wav
 
 	Place BombsiteB
-	null.wav
+	\null.wav
 
 	Place BombsiteC
-	null.wav
+	\null.wav
 End
 
 // the bot is asking his teammates where the bomb is
 Chatter WhereIsTheBomb
 	Important
 
-	null.wav
+	\null.wav
 End
 
 // the (CT) bot is announcing his intention to guard a bombsite
 Chatter GoingToDefendBombsite
 	// for maps with no places, or we're just being vague
 	Place ANY
-	null.wav
+	\null.wav
 
 	Place BombsiteA
-	null.wav
+	\null.wav
 
 	Place BombsiteB
-	null.wav
+	\null.wav
 
 	Place BombsiteC
-	null.wav
+	\null.wav
 End
 
 // the (CT) bot is announcing that he is currently guarding a bombsite
 Chatter DefendingBombsite
 	// for maps with no places
 	Place UNDEFINED
-	null.wav
+	\null.wav
 
 	Place BombsiteA
-	null.wav
+	\null.wav
 
 	Place BombsiteB
-	null.wav
+	\null.wav
 
 	Place BombsiteC
-	null.wav
+	\null.wav
 End
 
 // the (CT) bot is announcing that the bombsite is secure and ready for someone to defuse the bomb
@@ -728,24 +728,24 @@ Chatter BombsiteSecure
 
 	Important
 
-	null.wav
+	\null.wav
 End
 
 // the (CT) bot is encouraging the player to defuse the bomb
 Chatter WaitingForHumanToDefuseBomb
-	null.wav
+	\null.wav
 End
 
 // the (CT) bot is anxiously encouraging the player to defuse the bomb
 // VOICE NOTE: Very nervous/anxious/worried
 Chatter WaitingForHumanToDefuseBombPanic
-	null.wav
+	\null.wav
 End
 
 // when the bomb was defused with less than 2 seconds left
 // VOICE NOTE: Relief/happy
 Chatter BarelyDefused
-	null.wav
+	\null.wav
 End
 
 
@@ -756,22 +756,22 @@ End
 
 // the (Terrorist) bot is announcing his intention to guard the hostages
 Chatter GoingToGuardHostages
-	null.wav
+	\null.wav
 End
 
 // the (Terrorist) bot is currently guarding some hostages
 Chatter GuardingHostages
-	null.wav
+	\null.wav
 End
 
 // the (Terrorist) bot is announcing his intetion to guard an escape zone
 Chatter GoingToGuardHostageEscapeZone
-	null.wav
+	\null.wav
 End
 
 // the (Terrorist) bot is currently guarding an escape zone
 Chatter GuardingHostageEscapeZone
-	null.wav
+	\null.wav
 End
 
 // the (Terrorist) bot is telling his friends that the CT's are taking the hostages right now
@@ -781,7 +781,7 @@ Chatter HostagesBeingTaken
 
 	Important
 
-	null.wav
+	\null.wav
 End
 
 // the (Terrorist) bot has just discovered that the hostages are gone
@@ -789,24 +789,24 @@ End
 Chatter HostagesTaken
 	Important
 
-	null.wav
+	\null.wav
 End
 
 // the (CT) bot is announcing that he is talking to the hostages
 Chatter TalkingToHostages
-	null.wav
+	\null.wav
 End
 
 // the (CT) bot is annoucing that he has the hostages and is taking them to the escape zone
 Chatter EscortingHostages
-	null.wav
+	\null.wav
 End
 
 // the (CT) bot is guarding the hostages and is encouraging the human player to come rescue them
 Chatter WaitingForHumanToRescueHostages
 	Radio EVENT_RADIO_SECTOR_CLEAR
 
-	null.wav
+	\null.wav
 End
 
 
@@ -822,17 +822,17 @@ Chatter SpottedVIP
 
 	Important
 
-	null.wav
+	\null.wav
 End
 
 // the (Terrorist) bot is announcing his intention to guard an escape zone
 Chatter GoingToGuardVIPEscapeZone
-	null.wav
+	\null.wav
 End
 
 // the (Terrorist) bot is guarding an escape zone
 Chatter GuardingVIPEscapeZone
-	null.wav
+	\null.wav
 End
 
 
@@ -841,48 +841,48 @@ End
 // the bot was saying something and died in mid-sentance
 // VOICE NOTE: death cry
 Chatter Pain
-	null.wav
+	\null.wav
 End
 
 // the bot is congratulating his team for winning the round
 Chatter WonRound
-	null.wav
+	\null.wav
 End
 
 // the bot is celebrating because his team crushed the enemies very quickly
 // VOICE NOTE: Hoots and hollers of excitement, bragging, boasting, etc
 Chatter WonRoundQuickly
-	null.wav
+	\null.wav
 End
 
 // the bot won the round and is the last player alive
 // VOICE NOTE: Bragging, boasting, etc
 Chatter LastManStanding
-	null.wav
+	\null.wav
 End
 
 // the bot emits a short, exicited noise because he did something especially good
 // VOICE NOTE: Hoots and hollers of excitement
 Chatter ThrillEmote
-	null.wav
+	\null.wav
 End
 
 // the bot is afraid (usually because he is outnumbered by enemies)
 // VOICE NOTE: Worry/anxiety/fear
 Chatter ScaredEmote
-	null.wav
+	\null.wav
 End
 
 // the bot is agreeing with a plan someone else announced
 Chatter AgreeWithPlan
-	null.wav
+	\null.wav
 End
 
 // the bot is telling a friend that he will "cover them" and watch their back
 Chatter CoveringFriend
 	Radio EVENT_RADIO_AFFIRMATIVE
 
-	null.wav
+	\null.wav
 End
 
 // the bot is responding to someone's request for help
@@ -890,13 +890,13 @@ End
 Chatter OnMyWay
 	Radio EVENT_RADIO_AFFIRMATIVE
 
-	null.wav
+	\null.wav
 End
 
 // the bot has decided to hide for a little while, instead of seeking out the enemy
 // VOICE NOTE: Anxiety/worry/cowardice
 Chatter WaitingHere
-	null.wav
+	\null.wav
 End
 
 // the bot has been in combat for a long time, and can't get away
@@ -904,37 +904,37 @@ End
 Chatter PinnedDown
 	Radio EVENT_RADIO_NEED_BACKUP
 
-	null.wav
+	\null.wav
 End
 
 // the bot heard an enemy noise
 // VOICE NOTE: Said as an undertone/afterthought
 Chatter HeardNoise
-	null.wav
+	\null.wav
 End
 
 // the bot has been blinded by a Flashbang Grenade
 // VOICE NOTE: Surprise/shock/fear/anxiety
 Chatter Blinded
-	null.wav
+	\null.wav
 End
 
 // the bot is congratulating a friend on a well placed shot
 // VOICE NOTE: upbeat/supportive/impressed
 Chatter NiceShot
-	null.wav
+	\null.wav
 End
 
 // the bot is congratulating a human player on a well placed shot
 // VOICE NOTE: upbeat/supportive/impressed
 Chatter NiceShotSir
-	null.wav
+	\null.wav
 End
 
 // the bot is congratulating the "commander" in the solo game
 // VOICE NOTE: upbeat/supportive/impressed
 Chatter NiceShotCommander
-	null.wav
+	\null.wav
 End
 
 // when the player dies in the solo game
@@ -942,27 +942,27 @@ End
 Chatter CommanderDown
 	Radio EVENT_RADIO_REGROUP_TEAM
 
-	null.wav
+	\null.wav
 End
 
 // the bot has decided to follow a human player
 Chatter FollowingSir
 	Radio EVENT_RADIO_AFFIRMATIVE
 
-	null.wav
+	\null.wav
 End
 
 // the bot has decided to follow the human player in the solo game
 Chatter FollowingCommander
 	Radio EVENT_RADIO_AFFIRMATIVE
 
-	null.wav
+	\null.wav
 End
 
 // the bot is expressing its shock that a friend has killed another friend (friendly fire)
 // VOICE NOTE: Grief/sadness/worry/astonishment
 Chatter KilledFriend
-	null.wav
+	\null.wav
 End
 
 // the bot is crying out because he was injured by friendly fire
@@ -970,7 +970,7 @@ End
 Chatter FriendlyFire
 	Important
 
-	null.wav
+	\null.wav
 End
 
 
@@ -981,77 +981,77 @@ End
 //
 
 Chatter PepTalk
-	null.wav
+	\null.wav
 End
 
 Chatter OnARollBrag
-	null.wav
+	\null.wav
 End
 
 Chatter TauntCamper
-	null.wav
+	\null.wav
 End
 
 Chatter PreventEscapeBrag
-	null.wav
+	\null.wav
 End
 
 Chatter SniperWarning
-	null.wav
+	\null.wav
 End
 
 Chatter SniperKilled
-	null.wav
+	\null.wav
 End
 
 // we saw enemies, but now they're all dead
 Chatter ClearedArea
-	null.wav
+	\null.wav
 End
 
 Chatter Agree
-	null.wav
+	\null.wav
 End
 
 Chatter Disagree
-	null.wav
+	\null.wav
 End
 
 Chatter CoverMe
-	null.wav
+	\null.wav
 End
 
 Chatter FrustrationEmote
-	null.wav
+	\null.wav
 End
 
 Chatter FollowingFriend
-	null.wav
+	\null.wav
 End
 
 Chatter ReportingIn
-	null.wav
+	\null.wav
 End
 
 Chatter BombTickingDown
-	null.wav
+	\null.wav
 End
 
 Chatter HostageDown
-	null.wav
+	\null.wav
 End
 
 Chatter RequestHostageLocation
-	null.wav
+	\null.wav
 End
 
 Chatter MeToo
-	null.wav
+	\null.wav
 End
 
 Chatter HeavyWakeTaunt
 	Important
-	null.wav
+	\null.wav
 End
 
 
